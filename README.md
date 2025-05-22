@@ -95,6 +95,6 @@ O formulário simula envio com um `alert`.
 
 ## 📸 Preview
 
-Link do projeto:
+Link do projeto em produção:
 
 https://landing-page-vue-lovat.vercel.app/
