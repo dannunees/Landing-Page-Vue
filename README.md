@@ -4,12 +4,6 @@ Uma landing page simples e responsiva desenvolvida com **Vue.js** e **Tailwind C
 
 ---
 
-## 📸 Preview
-
-> 💡 *Adicione aqui uma imagem ou GIF do seu projeto rodando para ilustrar o layout final.*
-
----
-
 ## 🧪 Tecnologias utilizadas
 
 - ✅ [Vue.js 3 (Options API)](https://vuejs.org/)
@@ -103,4 +97,4 @@ O formulário simula envio com um `alert`.
 
 Link do projeto:
 
-
+https://landing-page-vue-lovat.vercel.app/
